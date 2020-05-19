@@ -49,10 +49,4 @@ for (var i = 0; i <= 9; i++) {
   console.log(i);
 }
 
-//question 9
 
-//your answer for quesiton 9 goes here
-
-//question 10
-
-//your answer for quesiton 10 goes here
